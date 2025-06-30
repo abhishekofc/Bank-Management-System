@@ -40,4 +40,11 @@ A **console-based banking application** built using **Java** and **Object-Orient
 ---
 
 ## 📁 Project Structure
+Banking-Management-System/
+├── Account.java
+├── Bank.java
+├── Main.java
+└── README.md
+
+
 
