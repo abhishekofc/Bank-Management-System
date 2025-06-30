@@ -46,5 +46,40 @@ Banking-Management-System/
 ├── Main.java
 └── README.md
 
+---
+
+## 🚀 Output Preview
+
+Welcome to the Banking Management System!
+
+Create Account
+
+Deposit
+
+Withdraw
+
+View Balance
+
+Exit
+Enter your choice:
+
+yaml
+Copy
+Edit
+
+---
+
+## 🧑‍💻 Author
+
+**Abhishek Pandey**  
+📅 Project Date: **March 2024**
+
+---
+
+## 📃 License
+
+This project is open-source and available for learning and collaboration.
+
+
 
 
