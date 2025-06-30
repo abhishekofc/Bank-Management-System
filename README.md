@@ -63,7 +63,7 @@ View Balance
 Exit
 Enter your choice:
 
-yaml
+
 Copy
 Edit
 
